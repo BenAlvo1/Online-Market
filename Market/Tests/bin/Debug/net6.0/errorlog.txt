@@ -1,0 +1,169 @@
+[21/06/2023 11:59:31] AddToCart: Error occurred: In order to execute that action, the user must be a visitor in the system.
+[21/06/2023 11:59:33] AddPolicy: Error occurred: No Rule matches ruleId: -1
+[21/06/2023 11:59:33] Error removing policy. Shop ID: 1, Policy ID: 12, Error message: Policy was not found
+[21/06/2023 11:59:37] AddToCart: Error occurred: Object reference not set to an instance of an object.
+[21/06/2023 11:59:39] AddToCart: Error occurred: Product Apple: In supply: 100, You required: 200
+[21/06/2023 11:59:41] Error registering user: User name not available. Please choose another.
+[21/06/2023 11:59:43] Remove appoint: Error occurred: In order to Remove appointment of an appointee the user must be the appointee's appointer in this shop.
+[21/06/2023 11:59:43] Remove appoint: Error occurred: In order to Remove appointment of an appointee the user must be the appointee's appointer in this shop.
+[21/06/2023 11:59:43] Remove appoint: Error occurred: Removing the appointment of the shop founder is not allowed!.
+[21/06/2023 11:59:43] Remove appoint: Error occurred: Removing the appointment of the shop founder is not allowed!.
+[21/06/2023 11:59:44] Remove appoint: Error occurred: Removing the appointment of the shop founder is not allowed!.
+[21/06/2023 11:59:45] Appoint: Error occurred: member already has a role in the shop: 1, and can't be appointed to another role
+[21/06/2023 11:59:46] AddProduct: Error occurred: invalid product price
+[21/06/2023 11:59:47] Failed to update product price for product ID: 11, error message: invalid product price
+[21/06/2023 11:59:49] AddPolicy: Error occurred: No Rule matches ruleId: 1
+[21/06/2023 11:59:50] AddPolicy: Error occurred: No Rule matches ruleId: 1
+[21/06/2023 11:59:51] CloseShop: Error occurred: Shop already closed.
+[21/06/2023 11:59:53] Failed to retrieve purchase history for session 4: In order to execute that action, the user must first be logged in.
+[21/06/2023 11:59:56] Error removing product. Shop ID: 1, Product ID: 12, Error message: Object reference not set to an instance of an object.
+[21/06/2023 11:59:58] getShopPositions: Error occurred: Shop Id does not exist
+[21/06/2023 11:59:59] Appoint: Error occurred: Shop Id does not exist
+[21/06/2023 12:00:02] ChangePermission: Error occurred: This user or the appointee given are not appointed to the given shop
+[21/06/2023 12:00:04] Appoint: Error occurred: Only the user who opened the shop can be the shop founder
+[21/06/2023 12:00:05] Error in cancel membership. Member name: gal, Error message: The member is assigned to one or more shops in the system and therefore the membership can't be canceled
+[21/06/2023 12:00:05] Error in cancel membership. Member name: gigi, Error message: Only a system admin can cancel a membership in the system!
+[21/06/2023 12:00:05] Error in cancel membership. Member name: admin, Error message: Can't cancel membership of a system admin!
+[21/06/2023 12:00:06] Login: Error occurred: Invalid user name or password.
+[21/06/2023 12:00:06] Error occurred in GetAllMembers method for session ID 3: Only a system admin can get informations about members in the system!
+[21/06/2023 12:00:08] Error occurred in GetAllMembers method for session ID 2: Only a system admin can get informations about members in the system!
+[21/06/2023 12:00:13] GetShoppingCartInfo: Error occurred: In order to execute that action, the user must be a visitor in the system.
+[21/06/2023 12:00:13] GetShoppingCartInfo: Error occurred: In order to execute that action, the user must be a visitor in the system.
+[21/06/2023 12:00:15] Login: Error occurred: Invalid user name or password.
+[21/06/2023 12:00:16] Login: Error occurred: Invalid user name or password.
+[21/06/2023 12:00:17] Login: Error occurred: Invalid user name or password.
+[21/06/2023 12:00:18] Error registering user: User name not available. Please choose another.
+[21/06/2023 12:00:21] CreateShop: Error occurred: Shop name already exist.
+[21/06/2023 12:00:22] Appoint: Error occurred: Only the user who opened the shop can be the shop founder
+[21/06/2023 12:00:22] Logout: Error occurred: In order to execute that action, the user must first be logged in.
+[21/06/2023 12:02:53] CreateShop: Error occurred: In order to execute that action, the user must first be logged in.
+[21/06/2023 12:02:55] Wrong Config File structure
+[21/06/2023 12:02:56] GetShopInfo: Error occurred: In order to execute that action, the user must be a visitor in the system.
+[21/06/2023 12:02:57] Error registering user: User name not available. Please choose another.
+[21/06/2023 12:02:57] Error registering user: User name not available. Please choose another.
+[21/06/2023 12:43:43] AddToCart: Error occurred: In order to execute that action, the user must be a visitor in the system.
+[21/06/2023 12:43:46] AddPolicy: Error occurred: No Rule matches ruleId: -1
+[21/06/2023 12:43:46] Error removing policy. Shop ID: 1, Policy ID: 12, Error message: Policy was not found
+[21/06/2023 12:43:54] AddToCart: Error occurred: Object reference not set to an instance of an object.
+[21/06/2023 12:43:55] AddToCart: Error occurred: Product Apple: In supply: 100, You required: 200
+[21/06/2023 12:43:57] Error registering user: User name not available. Please choose another.
+[21/06/2023 12:43:58] Remove appoint: Error occurred: In order to Remove appointment of an appointee the user must be the appointee's appointer in this shop.
+[21/06/2023 12:43:58] Remove appoint: Error occurred: In order to Remove appointment of an appointee the user must be the appointee's appointer in this shop.
+[21/06/2023 12:43:58] Remove appoint: Error occurred: Removing the appointment of the shop founder is not allowed!.
+[21/06/2023 12:43:58] Remove appoint: Error occurred: Removing the appointment of the shop founder is not allowed!.
+[21/06/2023 12:43:58] Remove appoint: Error occurred: Removing the appointment of the shop founder is not allowed!.
+[21/06/2023 12:43:59] Appoint: Error occurred: member already has a role in the shop: 1, and can't be appointed to another role
+[21/06/2023 12:43:59] AddProduct: Error occurred: invalid product price
+[21/06/2023 12:44:00] Failed to update product price for product ID: 11, error message: invalid product price
+[21/06/2023 12:44:01] AddPolicy: Error occurred: No Rule matches ruleId: 1
+[21/06/2023 12:44:02] AddPolicy: Error occurred: No Rule matches ruleId: 1
+[21/06/2023 12:44:03] CloseShop: Error occurred: Shop already closed.
+[21/06/2023 12:44:04] Failed to retrieve purchase history for session 4: In order to execute that action, the user must first be logged in.
+[21/06/2023 12:44:05] Error removing product. Shop ID: 1, Product ID: 12, Error message: Object reference not set to an instance of an object.
+[21/06/2023 12:44:06] getShopPositions: Error occurred: Shop Id does not exist
+[21/06/2023 12:44:08] Appoint: Error occurred: Shop Id does not exist
+[21/06/2023 12:44:09] ChangePermission: Error occurred: This user or the appointee given are not appointed to the given shop
+[21/06/2023 12:44:11] Appoint: Error occurred: Only the user who opened the shop can be the shop founder
+[21/06/2023 12:44:12] Error in cancel membership. Member name: gal, Error message: The member is assigned to one or more shops in the system and therefore the membership can't be canceled
+[21/06/2023 12:44:12] Error in cancel membership. Member name: gigi, Error message: Only a system admin can cancel a membership in the system!
+[21/06/2023 12:44:12] Error in cancel membership. Member name: admin, Error message: Can't cancel membership of a system admin!
+[21/06/2023 12:44:13] Login: Error occurred: Invalid user name or password.
+[21/06/2023 12:44:14] Error occurred in GetAllMembers method for session ID 3: Only a system admin can get informations about members in the system!
+[21/06/2023 12:44:15] Error occurred in GetAllMembers method for session ID 2: Only a system admin can get informations about members in the system!
+[21/06/2023 12:44:21] GetShoppingCartInfo: Error occurred: In order to execute that action, the user must be a visitor in the system.
+[21/06/2023 12:44:21] GetShoppingCartInfo: Error occurred: In order to execute that action, the user must be a visitor in the system.
+[21/06/2023 12:44:22] Login: Error occurred: Invalid user name or password.
+[21/06/2023 12:44:23] Login: Error occurred: Invalid user name or password.
+[21/06/2023 12:44:24] Login: Error occurred: Invalid user name or password.
+[21/06/2023 12:44:25] Error registering user: User name not available. Please choose another.
+[21/06/2023 12:44:27] CreateShop: Error occurred: Shop name already exist.
+[21/06/2023 12:44:28] Appoint: Error occurred: Only the user who opened the shop can be the shop founder
+[21/06/2023 12:44:28] Logout: Error occurred: In order to execute that action, the user must first be logged in.
+[21/06/2023 13:29:47] AddToCart: Error occurred: In order to execute that action, the user must be a visitor in the system.
+[21/06/2023 13:29:50] AddPolicy: Error occurred: No Rule matches ruleId: -1
+[21/06/2023 13:29:50] Error removing policy. Shop ID: 1, Policy ID: 11, Error message: The given key '11' was not present in the dictionary.
+[21/06/2023 13:29:51] Error removing policy. Shop ID: 1, Policy ID: 11, Error message: The given key '11' was not present in the dictionary.
+[21/06/2023 13:29:55] AddToCart: Error occurred: Object reference not set to an instance of an object.
+[21/06/2023 13:29:57] AddToCart: Error occurred: Product Apple: In supply: 100, You required: 200
+[21/06/2023 13:29:59] Error registering user: User name not available. Please choose another.
+[21/06/2023 13:30:00] Remove appoint: Error occurred: In order to Remove appointment of an appointee the user must be the appointee's appointer in this shop.
+[21/06/2023 13:30:00] Remove appoint: Error occurred: In order to Remove appointment of an appointee the user must be the appointee's appointer in this shop.
+[21/06/2023 13:30:00] Remove appoint: Error occurred: Removing the appointment of the shop founder is not allowed!.
+[21/06/2023 13:30:00] Remove appoint: Error occurred: Removing the appointment of the shop founder is not allowed!.
+[21/06/2023 13:30:01] Remove appoint: Error occurred: Removing the appointment of the shop founder is not allowed!.
+[21/06/2023 13:30:02] Appoint: Error occurred: member already has a role in the shop: 1, and can't be appointed to another role
+[21/06/2023 13:30:03] AddProduct: Error occurred: invalid product price
+[21/06/2023 13:30:04] Failed to update product price for product ID: 11, error message: invalid product price
+[21/06/2023 13:30:06] AddPolicy: Error occurred: No Rule matches ruleId: 1
+[21/06/2023 13:30:07] AddPolicy: Error occurred: No Rule matches ruleId: 1
+[21/06/2023 13:30:08] CloseShop: Error occurred: Shop already closed.
+[21/06/2023 13:30:10] Failed to retrieve purchase history for session 4: In order to execute that action, the user must first be logged in.
+[21/06/2023 13:30:11] Error removing product. Shop ID: 1, Product ID: 12, Error message: Object reference not set to an instance of an object.
+[21/06/2023 13:30:13] getShopPositions: Error occurred: Shop Id does not exist
+[21/06/2023 13:30:16] Appoint: Error occurred: Shop Id does not exist
+[21/06/2023 13:30:19] ChangePermission: Error occurred: This user or the appointee given are not appointed to the given shop
+[21/06/2023 13:30:22] Appoint: Error occurred: Only the user who opened the shop can be the shop founder
+[21/06/2023 13:30:24] Error in cancel membership. Member name: gal, Error message: The member is assigned to one or more shops in the system and therefore the membership can't be canceled
+[21/06/2023 13:30:24] Error in cancel membership. Member name: gigi, Error message: Only a system admin can cancel a membership in the system!
+[21/06/2023 13:30:24] Error in cancel membership. Member name: admin, Error message: Can't cancel membership of a system admin!
+[21/06/2023 13:30:25] Login: Error occurred: Invalid user name or password.
+[21/06/2023 13:30:26] Error occurred in GetAllMembers method for session ID 3: Only a system admin can get informations about members in the system!
+[21/06/2023 13:30:27] Error occurred in GetAllMembers method for session ID 2: Only a system admin can get informations about members in the system!
+[21/06/2023 13:30:32] GetShoppingCartInfo: Error occurred: In order to execute that action, the user must be a visitor in the system.
+[21/06/2023 13:30:33] GetShoppingCartInfo: Error occurred: In order to execute that action, the user must be a visitor in the system.
+[21/06/2023 13:30:35] Login: Error occurred: Invalid user name or password.
+[21/06/2023 13:30:37] Login: Error occurred: Invalid user name or password.
+[21/06/2023 13:30:42] Login: Error occurred: Invalid user name or password.
+[21/06/2023 13:30:49] Error registering user: User name not available. Please choose another.
+[21/06/2023 13:30:55] CreateShop: Error occurred: Shop name already exist.
+[21/06/2023 13:30:56] Appoint: Error occurred: Only the user who opened the shop can be the shop founder
+[21/06/2023 13:30:57] Logout: Error occurred: In order to execute that action, the user must first be logged in.
+[21/06/2023 13:34:29] CreateShop: Error occurred: In order to execute that action, the user must first be logged in.
+[21/06/2023 13:34:32] Wrong Config File structure
+[21/06/2023 13:34:33] GetShopInfo: Error occurred: In order to execute that action, the user must be a visitor in the system.
+[21/06/2023 13:34:35] Error registering user: User name not available. Please choose another.
+[21/06/2023 13:34:35] Error registering user: User name not available. Please choose another.
+[21/06/2023 21:29:53] AddToCart: Error occurred: In order to execute that action, the user must be a visitor in the system.
+[21/06/2023 21:29:57] AddPolicy: Error occurred: No Rule matches ruleId: -1
+[21/06/2023 21:29:57] Error removing policy. Shop ID: 1, Policy ID: 11, Error message: The given key '11' was not present in the dictionary.
+[21/06/2023 21:29:58] Error removing policy. Shop ID: 1, Policy ID: 11, Error message: The given key '11' was not present in the dictionary.
+[21/06/2023 21:30:04] AddToCart: Error occurred: Object reference not set to an instance of an object.
+[21/06/2023 21:30:09] AddToCart: Error occurred: Product Apple: In supply: 100, You required: 200
+[21/06/2023 21:30:15] Error registering user: User name not available. Please choose another.
+[21/06/2023 21:30:17] Remove appoint: Error occurred: In order to Remove appointment of an appointee the user must be the appointee's appointer in this shop.
+[21/06/2023 21:30:17] Remove appoint: Error occurred: In order to Remove appointment of an appointee the user must be the appointee's appointer in this shop.
+[21/06/2023 21:30:17] Remove appoint: Error occurred: Removing the appointment of the shop founder is not allowed!.
+[21/06/2023 21:30:17] Remove appoint: Error occurred: Removing the appointment of the shop founder is not allowed!.
+[21/06/2023 21:30:18] Remove appoint: Error occurred: Removing the appointment of the shop founder is not allowed!.
+[21/06/2023 21:30:19] Appoint: Error occurred: member already has a role in the shop: 1, and can't be appointed to another role
+[21/06/2023 21:30:21] AddProduct: Error occurred: invalid product price
+[21/06/2023 21:30:23] Failed to update product price for product ID: 11, error message: invalid product price
+[21/06/2023 21:30:26] AddPolicy: Error occurred: No Rule matches ruleId: 1
+[21/06/2023 21:30:28] AddPolicy: Error occurred: No Rule matches ruleId: 1
+[21/06/2023 21:30:29] CloseShop: Error occurred: Shop already closed.
+[21/06/2023 21:30:32] Failed to retrieve purchase history for session 4: In order to execute that action, the user must first be logged in.
+[21/06/2023 21:30:35] Error removing product. Shop ID: 1, Product ID: 12, Error message: Object reference not set to an instance of an object.
+[21/06/2023 21:30:38] getShopPositions: Error occurred: Shop Id does not exist
+[21/06/2023 21:30:41] Appoint: Error occurred: Shop Id does not exist
+[21/06/2023 21:30:44] ChangePermission: Error occurred: This user or the appointee given are not appointed to the given shop
+[21/06/2023 21:30:47] Appoint: Error occurred: Only the user who opened the shop can be the shop founder
+[21/06/2023 21:30:50] Error in cancel membership. Member name: gal, Error message: The member is assigned to one or more shops in the system and therefore the membership can't be canceled
+[21/06/2023 21:30:50] Error in cancel membership. Member name: gigi, Error message: Only a system admin can cancel a membership in the system!
+[21/06/2023 21:30:50] Error in cancel membership. Member name: admin, Error message: Can't cancel membership of a system admin!
+[21/06/2023 21:30:52] Login: Error occurred: Invalid user name or password.
+[21/06/2023 21:30:53] Error occurred in GetAllMembers method for session ID 3: Only a system admin can get informations about members in the system!
+[21/06/2023 21:30:56] Error occurred in GetAllMembers method for session ID 2: Only a system admin can get informations about members in the system!
+[21/06/2023 21:31:04] GetShoppingCartInfo: Error occurred: In order to execute that action, the user must be a visitor in the system.
+[21/06/2023 21:31:05] GetShoppingCartInfo: Error occurred: In order to execute that action, the user must be a visitor in the system.
+[21/06/2023 21:31:08] Login: Error occurred: Invalid user name or password.
+[21/06/2023 21:31:09] Login: Error occurred: Invalid user name or password.
+[21/06/2023 21:31:12] Login: Error occurred: Invalid user name or password.
+[21/06/2023 21:31:14] Error registering user: User name not available. Please choose another.
+[21/06/2023 21:31:19] CreateShop: Error occurred: Shop name already exist.
+[21/06/2023 21:31:21] Appoint: Error occurred: Only the user who opened the shop can be the shop founder
+[21/06/2023 21:31:22] Logout: Error occurred: In order to execute that action, the user must first be logged in.
+[21/06/2023 21:35:09] CreateShop: Error occurred: In order to execute that action, the user must first be logged in.
+[21/06/2023 21:35:12] Wrong Config File structure
+[21/06/2023 21:35:14] GetShopInfo: Error occurred: In order to execute that action, the user must be a visitor in the system.
+[21/06/2023 21:35:15] Error registering user: User name not available. Please choose another.
+[21/06/2023 21:35:15] Error registering user: User name not available. Please choose another.
